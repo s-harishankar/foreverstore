@@ -23,3 +23,9 @@ go.work.sum
 
 # env file
 .env
+
+# The binary directory
+bin/
+/build/
+
+.DS_Store
